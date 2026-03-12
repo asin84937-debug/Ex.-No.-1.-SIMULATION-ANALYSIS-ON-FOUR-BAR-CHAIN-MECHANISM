@@ -55,9 +55,7 @@
 
 ## Output:
 <img width="1005" height="590" alt="Screenshot 2026-03-12 102006" src="https://github.com/user-attachments/assets/5a237779-f41d-4580-b691-3426fd023bd3" />
-
 <img width="989" height="286" alt="Screenshot 2026-03-12 102021" src="https://github.com/user-attachments/assets/08e28551-4a2c-42b1-ab5a-5109ca641698" />
-
 
 ### Name: A.ASIN BANU
 ### Register Number: 212225040035
