@@ -50,12 +50,13 @@
 ![image](https://github.com/Sellakumar1987/Ex.-No.-1.-SIMULATION-ANALYSIS-ON-FOUR-BAR-CHAIN-MECHANISM/assets/113594316/15f7e50d-486d-46d0-bed0-8f51b36e7396)
 
 ![image](https://github.com/Sellakumar1987/Ex.-No.-1.-SIMULATION-ANALYSIS-ON-FOUR-BAR-CHAIN-MECHANISM/assets/113594316/b01469ff-cb80-4ca6-a6ef-ae521ee9b717)
+
 ## Input:
-<img width="1010" height="443" alt="Screenshot 2026-03-12 101856" src="https://github.com/user-attachments/assets/739b7eeb-b3db-4005-9b1f-7af2e2800a9b" />
+<img width="1010" height="443" alt="Screenshot 2026-03-12 101856" src="https://github.com/user-attachments/assets/dba73f8c-cf62-4c37-8e9d-b12845b73234" />
 
 ## Output:
-<img width="1005" height="590" alt="Screenshot 2026-03-12 102006" src="https://github.com/user-attachments/assets/5a237779-f41d-4580-b691-3426fd023bd3" />
-<img width="989" height="286" alt="Screenshot 2026-03-12 102021" src="https://github.com/user-attachments/assets/08e28551-4a2c-42b1-ab5a-5109ca641698" />
+<img width="1005" height="590" alt="Screenshot 2026-03-12 102006" src="https://github.com/user-attachments/assets/2f19eb12-77fb-4080-a913-cf82b751d2a4" />
+<img width="989" height="286" alt="Screenshot 2026-03-12 102021" src="https://github.com/user-attachments/assets/1e66733e-2e6e-4b54-9bf1-e6e7cd089684" />
 
 ### Name: A.ASIN BANU
 ### Register Number: 212225040035
